@@ -1,6 +1,12 @@
 # hello-world
 my first repository in github
 
-readme-edits分支 下加的
+1.测试其它分支修改README.md然后合并到主分支.
+readme-edits分支 下加的(这句话是用readme-edits分支加的，然后合并到master分支)
+再次加(这句话是用readme-edits分支加的，然后合并到master分支)
 
-再次加
+2.创建notgh-pages，测试了不能被选择部署为github pages.
+
+3.创建gh-pages,测试了能够被选择部署为github pages.
+
+4.在master branch下创建/docs文件夹，在里面创建index.html文件，这个文件夹可以被部署到github pages。
