@@ -4,6 +4,7 @@ my first repository in github
 1.测试其它分支修改README.md然后合并到主分支.
 
   readme-edits分支 下加的(这句话是用readme-edits分支加的，然后合并到master分支)
+  
   再次加(这句话是用readme-edits分支加的，然后合并到master分支)
 
 2.创建notgh-pages，测试了不能被选择部署为github pages.
