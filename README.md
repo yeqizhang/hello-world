@@ -22,3 +22,7 @@ my first repository in github
 
 远程回滚使用 `git revert` .相当于反向commit。
 
+测试revert. 20200410 17:18
+
+
+
