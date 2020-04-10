@@ -20,9 +20,22 @@ my first repository in github
 ![tortoise的gitlog日志操作reset](http://yeqizhang.github.io/hello-world/pics/gitlog_reset.png)
 
 
-远程回滚使用 `git revert` .相当于反向commit。
+使用 `git revert` .相当于反向commit。revert 是回滚某个 commit ，不是回滚“到”某个。
+
+先本地revert回滚某个commit，然后push到远程即可实现 **远程回滚** 
 
 测试revert. 20200410 17:18
+
+
+原来：
+
+![](http://yeqizhang.github.io/hello-world/pics/commit_1_2.png)
+
+![](http://yeqizhang.github.io/hello-world/pics/gitlog_revert.png)
+
+![](http://yeqizhang.github.io/hello-world/pics/commit&push_remote.png)
+
+![](http://yeqizhang.github.io/hello-world/pics/github_status.png)
 
 
 
