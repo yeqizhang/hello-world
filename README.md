@@ -38,4 +38,4 @@ my first repository in github
 ![](http://yeqizhang.github.io/hello-world/pics/github_status.png)
 
 
-
+测试reset soft是否保留pull过来的更改：1、github网站上编辑此文件 2、需要在本地新建一个文件（不能修改此文件，不然有冲突无法pull）
